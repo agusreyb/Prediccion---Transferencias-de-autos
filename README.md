@@ -12,5 +12,7 @@ Descargamos un conjunto de datos de transferencias de vehículos desde la págin
 https://datos.gob.ar/dataset/justicia-estadistica-tramites-automotores/archivo/justicia_7912aa2b-7e9a-49dd-8c14-0570ca043d27
 ## Preparación de datos
 Limpiamos y procesamos los datos recolectados para que estén listos para su uso.
-## Entrenamiento del modelo Utilizamos un algoritmo de regresión lineal para entrenar el modelo.
-## Predicción de datos Utilizamos el modelo entrenado para predecir el número de transferencias para un año y provincia específicos.
+## Entrenamiento del modelo 
+Utilizamos un algoritmo de regresión lineal para entrenar el modelo.
+## Predicción de datos 
+Utilizamos el modelo entrenado para predecir el número de transferencias para un año y provincia específicos.
