@@ -16,3 +16,6 @@ Limpiamos y procesamos los datos recolectados para que estén listos para su uso
 Utilizamos un algoritmo de regresión lineal para entrenar el modelo.
 ## Predicción de datos 
 Utilizamos el modelo entrenado para predecir el número de transferencias para un año y provincia específicos.
+
+# Ejecutable
+Hemos implimentado una versión ejecutable del proyecto para que pueda ser consumido por un usuario final sin la necesidad de tener instaladas las herramientas de un desarrollador.
